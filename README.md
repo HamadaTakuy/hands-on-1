@@ -1,3 +1,3 @@
 # hands-on-1
 テストです。
-Soft Resetした
+練習中！
